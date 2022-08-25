@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(algorithm)
 
 add_executable(c_program
-        algorithm/test.c)
+        algorithm/test.c
+        base-learn/test.c)
