@@ -13,8 +13,9 @@ void test01(){
 }
 
 
+// 入口函数
 int main(){
     test01();
-    return 0;
+    return 1;
 }
 
